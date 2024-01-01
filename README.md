@@ -11,10 +11,10 @@ Skills: Android / iOS  / Nodejs / Java /Kotlin / Swift / Python / MYSQL / Java S
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pratheepkanati//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pratheepkanati//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://androidhunt.in)  
 
-Some of my personal works :
-Website using react
+####Some of my personal works :
+#####Website using react
 https://www.androidhunt.in
 https://newspost.today
-Android Apps:
+####Android Apps:
 https://play.google.com/store/apps/dev?id=8681052238174996537&hl=en-IN
 
