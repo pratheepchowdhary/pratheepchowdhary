@@ -4,7 +4,7 @@
 
 Passionate programmer with 5 + years experience in Android Development. who is not afraid of a challenge. I push myself to achieve my goals and I love to strive towards perfection. The only thing I want to focus on is how I can make the best out of the situation, and how I can make it shine.
 
-Skills: Android / iOS  / Java /Kotlin / Swift / Python / MYSQL
+Skills: Android / iOS  / Nodejs / Java /Kotlin / Swift / Python / MYSQL / Java Script
 
 - 🔭 I’m currently working on Android HMI 
 
