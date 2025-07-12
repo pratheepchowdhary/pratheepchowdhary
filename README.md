@@ -8,8 +8,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://androidhunt.in)](https://androidhunt.in)
 [![Github](https://img.shields.io/github/followers/pratheepchowdhary?label=Follow&style=social)](https://github.com/pratheepchowdhary)
 
- Passionate programmer with 5 + years experience in Android Development. who is not afraid of a challenge. I push myself to achieve my goals and I love to strive towards perfection. The only thing I want to focus on is how I can make the best out of the situation, and how I can make it shine.  <br />
- 📫 How to reach me: pratheepkanati@gmail.com
+Passionate programmer with 5 + years experience in Android Development. who is not afraid of a challenge. I push myself to achieve my goals and I love to strive towards perfection. The only thing I want to focus on is how I can make the best out of the situation, and how I can make it shine.  <br />
+📫 How to reach me: pratheepkanati@gmail.com
 
 
 ### 🖥 Skills
@@ -23,7 +23,7 @@
 - Mysql
 - JavaScript
 - Python
-### ⚙️ Some of my works 
+### ⚙️ Some of my work 
 
 #### Medium Clones using React and Tailwind CSS
 https://androidhunt.in  <br />
@@ -31,10 +31,5 @@ https://newspost.today <br />
 
 #### Android Apps
 https://play.google.com/store/apps/dev?id=8681052238174996537
-
-
-
-
-
 
 ---
