@@ -23,13 +23,4 @@ Passionate programmer with 5 + years experience in Android Development. who is n
 - Mysql
 - JavaScript
 - Python
-### ⚙️ Some of my work 
 
-#### Medium Clones using React and Tailwind CSS
-https://androidhunt.in  <br />
-https://newspost.today <br />
-
-#### Android Apps
-https://play.google.com/store/apps/dev?id=8681052238174996537
-
----
